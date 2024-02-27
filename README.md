@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test repository
+# cpp
+Repository of Cpp problems
